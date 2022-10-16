@@ -1,0 +1,5 @@
+# Issuses resolved while working on this project
+
+1. Write access to dev container so you can save the files
+chmod -R 777 /workspaces/mining-massive-datasets
+
