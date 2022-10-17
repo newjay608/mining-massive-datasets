@@ -3,3 +3,5 @@
 1. Write access to dev container so you can save the files
 chmod -R 777 /workspaces/mining-massive-datasets
 
+2. Similarity mounted dir should have the write access
+chmod -R 777 ukretailer/
